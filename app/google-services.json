@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "928892751779",
+    "project_id": "imagecapture-dae72",
+    "storage_bucket": "imagecapture-dae72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928892751779:android:0af35bf0c6fdce439fd416",
+        "android_client_info": {
+          "package_name": "com.techmania.captureimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928892751779-j6hs9vnutcm5h1qr50rd0nsj1bgiblts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm2aOl9twhS5Cmu1TaddkMUllTLJhQScU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928892751779-j6hs9vnutcm5h1qr50rd0nsj1bgiblts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928892751779:android:b6346381373027799fd416",
+        "android_client_info": {
+          "package_name": "com.techmania.imagecapture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928892751779-j6hs9vnutcm5h1qr50rd0nsj1bgiblts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm2aOl9twhS5Cmu1TaddkMUllTLJhQScU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928892751779-j6hs9vnutcm5h1qr50rd0nsj1bgiblts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
